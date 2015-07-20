@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1436965196 source:/home/cameron/TextGame/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<utility>
+	<cstdlib>
+	<ctime>
+	"Creature.h"
+	"Dialogue.h"
+	"Item.h"
+	"Area.h"
+	"Armour.h"
+	"Item.h"
+	"Weapon.h"
+	"atlas.h"
+	"Battle.h"
+
+1436796457 source:/home/cameron/TextGame/src/Dialogue.cpp
+	"Dialogue.h"
+
+1436875466 /home/cameron/TextGame/include/Dialogue.h
+	<string>
+	<vector>
+	<iostream>
+
+1436962976 /home/cameron/TextGame/include/Creature.h
+	"Inventory.h"
+	"Weapon.h"
+	"Armour.h"
+	<string>
+
+1436884096 /home/cameron/TextGame/include/Inventory.h
+	"Item.h"
+	"Weapon.h"
+	"Armour.h"
+	<list>
+	<utility>
+	<iostream>
+
+1436881795 /home/cameron/TextGame/include/Item.h
+	<string>
+
+1436880707 /home/cameron/TextGame/include/Weapon.h
+	"Item.h"
+	<string>
+
+1436884265 /home/cameron/TextGame/include/Armour.h
+	"Item.h"
+	<string>
+
+1436963559 source:/home/cameron/TextGame/src/atlas.cpp
+	"atlas.h"
+	"Creature.h"
+
+1436885405 /home/cameron/TextGame/include/atlas.h
+	<vector>
+	"Creature.h"
+	"Item.h"
+	"Weapon.h"
+	"Armour.h"
+	"Area.h"
+
+1436886579 /home/cameron/TextGame/include/Area.h
+	<vector>
+	"Inventory.h"
+	"Creature.h"
+	"Dialogue.h"
+
+1436964398 /home/cameron/TextGame/include/Battle.h
+
